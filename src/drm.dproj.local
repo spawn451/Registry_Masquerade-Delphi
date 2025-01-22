@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/11/25 03:38:11.000.866,=C:\Users\leet\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/02 18:19:24.000.759,=C:\Users\leet\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/12/06 12:09:05.000.860,C:\Users\leet\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\_Delphi\_Projects\_Security\Delphi Registry Masquerade\DRM.dproj</Transaction>
+    <Transaction>2024/12/06 12:12:56.000.849,=D:\_Delphi\_Projects\_Security\Delphi Registry Masquerade\GetSid.pas</Transaction>
+    <Transaction>2025/01/22 15:42:55.234,D:\_Delphi\_Projects\_Security\Delphi Registry Masquerade\drmm.dproj=D:\_Delphi\_Projects\_Security\Delphi Registry Masquerade\DRM.dproj</Transaction>
+    <Transaction>2025/01/22 15:43:00.955,D:\_Delphi\_Projects\_Security\Delphi Registry Masquerade\drm.dproj=D:\_Delphi\_Projects\_Security\Delphi Registry Masquerade\drmm.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
