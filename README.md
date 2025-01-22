@@ -48,6 +48,9 @@ drm.exe -disable -command "C:\Windows\System32\notepad.exe"
 
 Registry value removed successfully
 ```
+<br>
+
+<p align="center">Made with ❤️ using Delphi RAD Studio</p>
 
 
 
