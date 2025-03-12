@@ -41,8 +41,6 @@ The name of the registry value starts with a NULL character, followed by the act
 
 To remove the entry use the disable flag.
 
-Even Sysinternals RegDelNull is not able to detect/remove the entry!
-
 ```bat
 drm.exe -disable -command "C:\Windows\System32\notepad.exe"
 
